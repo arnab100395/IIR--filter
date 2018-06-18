@@ -1,0 +1,23 @@
+ 
+****************************************
+Report : area
+Design : IIR_main
+Version: D-2010.03-SP2
+Date   : Fri Mar 30 23:18:32 2018
+****************************************
+
+Library(s) Used:
+
+    osu018_stdcells (File: /home/grads/a/arnab_2014/Desktop/Lab3/standard/osu018_stdcells.db)
+
+Number of ports:               66
+Number of nets:               130
+Number of cells:                3
+Number of references:           3
+
+Combinational area:       319230.000000
+Noncombinational area:    33792.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:          353022.000000
+Total area:                 undefined
